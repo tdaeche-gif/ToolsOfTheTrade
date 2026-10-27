@@ -28,11 +28,11 @@ I've collected more data from Hacker News, AngelList and Quora, to make the 2015
 
 It's on GitHub for a reason! Please submit pull requests.
 
-## Supported with ❤️ by [Instabug](https://instabug.com/android/sdk?utm_source=toolsofthetrade&utm_medium=spon&utm_content=header)
+## Supported with ❤️ by [Instabug](https://instabug.com/android/sdk)
 ### Understand How Your App is Doing with Real-Time Contextual Insights From Your Users
-[![instabug-github](https://user-images.githubusercontent.com/10850625/65512691-fd45f280-ded9-11e9-8921-3528b98c30a7.png)](https://instabug.com/android/sdk?utm_source=toolsofthetrade&utm_medium=spon&utm_content=banner)
+[![instabug-github](https://user-images.githubusercontent.com/10850625/65512691-fd45f280-ded9-11e9-8921-3528b98c30a7.png)](https://instabug.com/android/sdk)
 >Instabug helps Android developers easily collect bugs and feedback from beta testers and users to iterate faster and ship quality apps. Instabug automatically attaches screenshots, device details, network logs, repro steps, and tons of other critical insights needed to resolve issues and prioritize product backlogs.
-> Mobile teams accelerate their workflows by seamlessly integrating with third-party tools like Github, Jira, Slack, Zendesk and much more. [Instabug is offering Tools of the Trade community an exclusive 15% discount on all paid plans. Get Started!](https://instabug.com/android/sdk/?utm_source=toolsofthetrade&utm_medium=spon&utm_content=get-started)
+> Mobile teams accelerate their workflows by seamlessly integrating with third-party tools like Github, Jira, Slack, Zendesk and much more. [Instabug is offering Tools of the Trade community an exclusive 15% discount on all paid plans. Get Started!](https://instabug.com/android/sdk/)
 >[![](https://instabug-ga.appspot.com/UA-41982088-6/github/ToolsOfTheTrade?pixel)](https://instabug.com)
 
 ## Contents
@@ -1051,4 +1051,4 @@ This list also uses tags to help when searching the contents:
 and contributors!
 
 If you'd like to contribute, feel free to submit a pull request following the [contributing guidelines](https://github.com/cjbarber/ToolsOfTheTrade/blob/master/contributing.md).
-- [Mitvia](https://mitvia.com?utm_source=awesome-tools-of-trade&utm_medium=directory&utm_campaign=launch) - Verified commuter ridesharing, route matching, and shared mobility coordination platform. (Freemium)
+- [Mitvia](https://mitvia.com) - Verified commuter ridesharing, route matching, and shared mobility coordination platform. (Freemium)
