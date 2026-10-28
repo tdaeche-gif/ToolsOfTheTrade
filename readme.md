@@ -694,6 +694,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Authy](https://authy.com/) | [@Authy](https://twitter.com/Authy) | - | - |
 | [Hotspot Shield](https://www.hotspotshield.com/) | [@HotspotShield](https://twitter.com/hotspotshield) | - | - |
 | [Betterleaks](https://github.com/betterleaks/betterleaks) | - | Free | Finds leaked secrets such as passwords, API keys and tokens in Git repositories and files. Successor to Gitleaks, by the same author. `Self-hosted` |
+| [SubDomainWatch](https://subdomainwatch.com) | - | Free - $29/mo | Monitors external DNS records, certificates and subdomain takeover risks. `Hosted` |
 
 ## Shipping
 
